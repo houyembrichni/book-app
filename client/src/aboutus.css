@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,500;1,500&family=Lobster&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Protest+Riot&family=Satisfy&display=swap");
+
+.aboutus {
+  /* border: 1px solid black; */
+  border-radius: 15px;
+  /* width: 50%; */
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+}
+
+.aboutus h2 {
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  font-size: xx-large;
+  color: rgb(96, 24, 24);
+  width: fit-content;
+  margin-top: 50px;
+}
+.aboutus p {
+  width: 50%;
+  margin:0  auto 50px auto;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+}
+.card_container{
+  border: 1px solid white;
+}
